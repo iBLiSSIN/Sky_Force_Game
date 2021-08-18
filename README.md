@@ -8,6 +8,8 @@ Free to download sky force 2004 on your computer!
 
 * Reloaded version (2006) [DOWNLOAD](https://github.com/iBLiSSIN/Sky_Force_2004/releases/tag/2.0)
 
+![screenshot](https://i.ytimg.com/vi/EC6S171RoI8/hqdefault.jpg)
+
 If have any problem, open a issues.
 
 # Sky Force Steam Version Free Download
