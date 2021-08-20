@@ -30,11 +30,11 @@ Free to download sky force game on your computer!
 
 ### Tải xuống sky force phiên bản nokia miễn phí trên máy tính của bạn!
 
-Phiên bản gốc (2004) [TẢI XUỐNG](https://github.com/iBLiSSIN/Sky_Force_2004/releases/tag/2.2)
+* Phiên bản gốc (2004) [TẢI XUỐNG](https://github.com/iBLiSSIN/Sky_Force_2004/releases/tag/2.2)
 
 ![screenshot](http://2.bp.blogspot.com/-RY_Lqj9-7tQ/T5SUvIW2ETI/AAAAAAAAAWo/LkcfPrU-gRs/s1600/skyforce-standard.jpg)
 
-Phiên bản tải lại (2006) [TẢI XUỐNG](https://github.com/iBLiSSIN/Sky_Force_2004/releases/tag/2.0)
+* Phiên bản Reloaded (2006) [TẢI XUỐNG](https://github.com/iBLiSSIN/Sky_Force_2004/releases/tag/2.0)
 
 ![screenshot](https://i.imgur.com/Ml5rCk0_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
 
@@ -42,10 +42,10 @@ Phiên bản tải lại (2006) [TẢI XUỐNG](https://github.com/iBLiSSIN/Sky_
 
 ### Tải miễn phí trò chơi sky force về máy tính của bạn!
 
-Phiên bản kỷ niệm (2014) [TẢI XUỐNG](https://github.com/iBLiSSIN/Sky_Force_2004/releases/tag/2.0.1)
+* Phiên bản Anniversary (2014) [TẢI XUỐNG](https://github.com/iBLiSSIN/Sky_Force_2004/releases/tag/2.0.1)
 
 ![screenshot](https://cdn.cloudflare.steamstatic.com/steam/apps/355050/ss_a320a0019b2ff718b398aef28aa58bd1790cada3.1920x1080.jpg?t=1571377243)
 
-Phiên bản tải lại (2016) [TẢI XUỐNG](https://github.com/iBLiSSIN/Sky_Force_2004/releases/tag/3.0)
+* Phiên bản Reloaded (2016) [TẢI XUỐNG](https://github.com/iBLiSSIN/Sky_Force_2004/releases/tag/3.0)
 
 ![screenshot](https://cdn.cloudflare.steamstatic.com/steam/apps/667600/ss_48b33daf4c9358642fcf7e39179c2e6913a71505.1920x1080.jpg?t=1571377189)
