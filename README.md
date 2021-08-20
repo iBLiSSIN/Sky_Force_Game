@@ -19,3 +19,5 @@ Free to download sky force game on your computer!
 * Anniversary version (2014) [DOWNLOAD](https://github.com/iBLiSSIN/Sky_Force_Game/releases/tag/2.0.1)
 
 ![screenshot](https://cdn.cloudflare.steamstatic.com/steam/apps/355050/ss_a320a0019b2ff718b398aef28aa58bd1790cada3.1920x1080.jpg?t=1571377243)
+
+* Reloaded version (2016) [DOWNLOAD](https://github.com/iBLiSSIN/Sky_Force_Game/releases/tag/3.0)
