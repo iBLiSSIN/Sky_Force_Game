@@ -10,8 +10,6 @@ Free to download sky force 2004 on your computer!
 
 ![screenshot](https://i.imgur.com/Ml5rCk0_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
 
-If have any problem, open a issues.
-
 # Sky Force Steam Version Free Download
 Free to download sky force game on your computer!
 
