@@ -28,7 +28,7 @@ Free to download sky force game on your computer!
 
 ## Tải xuống phiên bản Sky Force Nokia
 
-### Tải xuống sky force phiên bản nokia miễn phí trên máy tính của bạn!
+Tải xuống sky force phiên bản nokia miễn phí trên máy tính của bạn!
 
 * Phiên bản gốc (2004) [TẢI XUỐNG](https://github.com/iBLiSSIN/Sky_Force_2004/releases/tag/2.2)
 
@@ -40,7 +40,7 @@ Free to download sky force game on your computer!
 
 ## Tải xuống miễn phí phiên bản Sky Force Steam
 
-### Tải miễn phí trò chơi sky force về máy tính của bạn!
+Tải miễn phí trò chơi sky force về máy tính của bạn!
 
 * Phiên bản Anniversary (2014) [TẢI XUỐNG](https://github.com/iBLiSSIN/Sky_Force_2004/releases/tag/2.0.1)
 
